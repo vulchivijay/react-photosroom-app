@@ -4,3 +4,8 @@ go to cmd and run "npm start" from root folder
 go to cmd and run "node server.js" from backend folder
 
 ![home screen](https://github.com/vulchivijay/photosroom/blob/main/public/assets/screenshots/Photosroom%231-homepage.jpg)
+
+![upload screen](https://github.com/vulchivijay/photosroom/blob/main/public/assets/screenshots/Photosroom%231-uploadpage.jpg)
+
+![single screen](https://github.com/vulchivijay/photosroom/blob/main/public/assets/screenshots/Photosroom%231-singlephoto-page.jpg)
+
