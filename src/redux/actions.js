@@ -24,7 +24,7 @@ export function addPhoto(photo) {
   }
 }
 
-export function getPhotos(photo) {
+export function getPhotos() {
   return (dispatch) => {
     return axios.get("http://localhost:4000/api/", {}).then(snapShot => {
       if (snapShot.status === 200) {
